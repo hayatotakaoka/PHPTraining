@@ -1,0 +1,5 @@
+diff a/20170508/test.php b/20170508/test.php	(rejected hunks)
+@@ -0,0 +1,3 @@
++<?php $a="hello";
++echo $a;
++?>
